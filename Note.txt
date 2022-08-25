@@ -1,0 +1,3 @@
+﻿-------------ViewModel类的作用------------
+	ViewModle连接者View和Model，将用户在View中输入的数据传递给Model，Model对数据处理完成，产生的输出结果反馈给
+ViewModel，ViewModel再返回到View中.
